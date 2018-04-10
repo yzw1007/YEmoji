@@ -24,6 +24,8 @@ import android.text.TextUtils;
 import android.text.style.DynamicDrawableSpan;
 import android.util.AttributeSet;
 
+import com.fyfeng.mylibrary.R;
+
 /**
  * @author Hieu Rocker (rockerhieu@gmail.com).
  */

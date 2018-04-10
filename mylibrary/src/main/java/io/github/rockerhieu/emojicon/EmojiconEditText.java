@@ -76,10 +76,4 @@ public class EmojiconEditText extends AppCompatEditText {
         EmojiconHandler.addEmojis(getContext(), getText(), mEmojiconSize, mEmojiconAlignment, mEmojiconTextSize, mUseSystemDefault);
     }
 
-    /**
-     * Set whether to use system default emojicon
-     */
-    public void setUseSystemDefault(boolean useSystemDefault) {
-        mUseSystemDefault = useSystemDefault;
-    }
 }
